@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-milvus
+langchain-ollama
+langchain-text-splitters
+pymilvus
+openai
+httpx
